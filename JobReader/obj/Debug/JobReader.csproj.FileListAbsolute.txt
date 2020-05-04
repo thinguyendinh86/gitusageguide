@@ -1,0 +1,18 @@
+C:\Users\user\Desktop\GoodImageFov_v3_45\JobReader\bin\Debug\JobReader.xml
+C:\Users\user\Desktop\GoodImageFov_v3_45\JobReader\bin\Debug\JobReader.dll
+C:\Users\user\Desktop\GoodImageFov_v3_45\JobReader\bin\Debug\JobReader.pdb
+C:\Users\user\Desktop\GoodImageFov_v3_45\JobReader\obj\Debug\JobReader.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GoodImageFov_v3_45\JobReader\obj\Debug\JobReader.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GoodImageFov_v3_45\JobReader\obj\Debug\JobReader.dll
+C:\Users\user\Desktop\GoodImageFov_v3_45\JobReader\obj\Debug\JobReader.pdb
+D:\documents\ojt\miniproject\GoodImageFov_v3_45\JobReader\obj\Debug\JobReader.dll
+D:\documents\ojt\miniproject\GoodImageFov_v3_45\JobReader\obj\Debug\JobReader.pdb
+D:\documents\ojt\miniproject\GoodImageFov_v3_45\JobReader\bin\Debug\JobReader.xml
+D:\documents\ojt\miniproject\GoodImageFov_v3_45\JobReader\bin\Debug\JobReader.dll
+D:\documents\ojt\miniproject\GoodImageFov_v3_45\JobReader\bin\Debug\JobReader.pdb
+C:\Users\Administrator\Desktop\Koh Young\TiengHQ\GoodImageFov_v3_45\JobReader\bin\Debug\JobReader.xml
+C:\Users\Administrator\Desktop\Koh Young\TiengHQ\GoodImageFov_v3_45\JobReader\bin\Debug\JobReader.dll
+C:\Users\Administrator\Desktop\Koh Young\TiengHQ\GoodImageFov_v3_45\JobReader\bin\Debug\JobReader.pdb
+C:\Users\Administrator\Desktop\Koh Young\TiengHQ\GoodImageFov_v3_45\JobReader\obj\Debug\JobReader.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Koh Young\TiengHQ\GoodImageFov_v3_45\JobReader\obj\Debug\JobReader.dll
+C:\Users\Administrator\Desktop\Koh Young\TiengHQ\GoodImageFov_v3_45\JobReader\obj\Debug\JobReader.pdb
