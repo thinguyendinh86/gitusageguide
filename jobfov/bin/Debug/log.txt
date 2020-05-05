@@ -1,7 +1,0 @@
-Error drawing cluster boundary: One or more errors occurred.
-Error drawing cluster boundary: Index was outside the bounds of the array.
-Error drawing cluster boundary: Index was outside the bounds of the array.
-Error drawing cluster boundary: Index was outside the bounds of the array.
-Error drawing cluster boundary: Index was outside the bounds of the array.
-Error drawing cluster boundary: Index was outside the bounds of the array.
-Error drawing cluster boundary: Index was outside the bounds of the array.
