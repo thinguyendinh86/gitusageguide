@@ -1,0 +1,10 @@
+bamboo:
+    url: 'http://192.168.1.21:8085/'
+    username: administrator
+    password: Admin@125
+    checkstyle_key: CHECK
+    coverage_key: COVER
+
+# Hook rules are only enforced for "protected" refs 
+
+protected_refs: [master]
